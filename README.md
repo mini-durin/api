@@ -19,6 +19,7 @@ All are manual updates
 name = Character name<br>
 NOTE: Localization includes characters that may be playable in the future. **(NOT A LEAK)**
 <br>
+<br>
 country = Affiliation country<br>
 　TR=Traveler<br>
 　MN=Mondstadt<br>
