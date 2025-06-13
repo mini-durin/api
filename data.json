@@ -1,0 +1,992 @@
+[
+  {
+    "name": "AET",
+    "country": "TR",
+    "element": "T",
+    "wapon": "S",
+    "ver": 10,
+    "model": "B",
+    "vision": "V",
+    "namechange": 0
+  },
+  {
+    "name": "LMN",
+    "country": "TR",
+    "element": "T",
+    "wapon": "S",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": 0
+  },
+  {
+    "name": "AMB",
+    "country": "MN",
+    "element": "P",
+    "wapon": "B",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "BBR",
+    "country": "MN",
+    "element": "H",
+    "wapon": "C",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "BNT",
+    "country": "MN",
+    "element": "P",
+    "wapon": "S",
+    "ver": 10,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "DLC",
+    "country": "MN",
+    "element": "P",
+    "wapon": "M",
+    "ver": 10,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "FCL",
+    "country": "MN",
+    "element": "E",
+    "wapon": "B",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "JEN",
+    "country": "MN",
+    "element": "A",
+    "wapon": "S",
+    "ver": 10,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KLE",
+    "country": "MN",
+    "element": "P",
+    "wapon": "C",
+    "ver": 10,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KYA",
+    "country": "MN",
+    "element": "C",
+    "wapon": "S",
+    "ver": 10,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "LSA",
+    "country": "MN",
+    "element": "E",
+    "wapon": "C",
+    "ver": 10,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MNA",
+    "country": "MN",
+    "element": "H",
+    "wapon": "C",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NEL",
+    "country": "MN",
+    "element": "G",
+    "wapon": "M",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "RZR",
+    "country": "MN",
+    "element": "E",
+    "wapon": "M",
+    "ver": 10,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SRS",
+    "country": "MN",
+    "element": "A",
+    "wapon": "C",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "VNT",
+    "country": "MN",
+    "element": "A",
+    "wapon": "B",
+    "ver": 10,
+    "model": "B",
+    "vision": "G",
+    "namechange": "X"
+  },
+  {
+    "name": "BID",
+    "country": "LY",
+    "element": "E",
+    "wapon": "M",
+    "ver": 10,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CYN",
+    "country": "LY",
+    "element": "C",
+    "wapon": "M",
+    "ver": 10,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KQN",
+    "country": "LY",
+    "element": "E",
+    "wapon": "S",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NNG",
+    "country": "LY",
+    "element": "G",
+    "wapon": "C",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "QQI",
+    "country": "LY",
+    "element": "C",
+    "wapon": "S",
+    "ver": 10,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XLN",
+    "country": "LY",
+    "element": "P",
+    "wapon": "P",
+    "ver": 10,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XNQ",
+    "country": "LY",
+    "element": "H",
+    "wapon": "S",
+    "ver": 10,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XYN",
+    "country": "LY",
+    "element": "P",
+    "wapon": "M",
+    "ver": 11,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "TTL",
+    "country": "FT",
+    "element": "H",
+    "wapon": "B",
+    "ver": 11,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ZNL",
+    "country": "LY",
+    "element": "G",
+    "wapon": "P",
+    "ver": 11,
+    "model": "M",
+    "vision": "G",
+    "namechange": "X"
+  },
+  {
+    "name": "DON",
+    "country": "MN",
+    "element": "C",
+    "wapon": "B",
+    "ver": 11,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ABD",
+    "country": "MN",
+    "element": "G",
+    "wapon": "S",
+    "ver": 12,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "GNY",
+    "country": "LY",
+    "element": "C",
+    "wapon": "B",
+    "ver": 12,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XAO",
+    "country": "LY",
+    "element": "A",
+    "wapon": "P",
+    "ver": 13,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "HTO",
+    "country": "LY",
+    "element": "P",
+    "wapon": "P",
+    "ver": 13,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "RSR",
+    "country": "MN",
+    "element": "C",
+    "wapon": "P",
+    "ver": 14,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "YFI",
+    "country": "LY",
+    "element": "P",
+    "wapon": "C",
+    "ver": 15,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "EUL",
+    "country": "MN",
+    "element": "C",
+    "wapon": "M",
+    "ver": 15,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KZH",
+    "country": "IN",
+    "element": "A",
+    "wapon": "S",
+    "ver": 16,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "AYK",
+    "country": "IN",
+    "element": "C",
+    "wapon": "S",
+    "ver": 20,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "YMY",
+    "country": "IN",
+    "element": "P",
+    "wapon": "B",
+    "ver": 20,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SYU",
+    "country": "IN",
+    "element": "A",
+    "wapon": "M",
+    "ver": 20,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SGN",
+    "country": "IN",
+    "element": "E",
+    "wapon": "P",
+    "ver": 21,
+    "model": "F",
+    "vision": "G",
+    "namechange": "X"
+  },
+  {
+    "name": "KKM",
+    "country": "IN",
+    "element": "H",
+    "wapon": "C",
+    "ver": 21,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SRA",
+    "country": "IN",
+    "element": "E",
+    "wapon": "B",
+    "ver": 21,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ALY",
+    "country": "UN",
+    "element": "C",
+    "wapon": "B",
+    "ver": 21,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "THM",
+    "country": "IN",
+    "element": "P",
+    "wapon": "P",
+    "ver": 22,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ITO",
+    "country": "IN",
+    "element": "G",
+    "wapon": "M",
+    "ver": 23,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "GRU",
+    "country": "IN",
+    "element": "G",
+    "wapon": "B",
+    "ver": 23,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SNH",
+    "country": "LY",
+    "element": "C",
+    "wapon": "P",
+    "ver": 24,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "YJN",
+    "country": "LY",
+    "element": "G",
+    "wapon": "P",
+    "ver": 24,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MKO",
+    "country": "IN",
+    "element": "E",
+    "wapon": "C",
+    "ver": 25,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "AYT",
+    "country": "IN",
+    "element": "H",
+    "wapon": "S",
+    "ver": 26,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "YLN",
+    "country": "LY",
+    "element": "H",
+    "wapon": "B",
+    "ver": 27,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SNB",
+    "country": "IN",
+    "element": "E",
+    "wapon": "S",
+    "ver": 27,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "HZU",
+    "country": "IN",
+    "element": "A",
+    "wapon": "C",
+    "ver": 28,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "TNR",
+    "country": "SM",
+    "element": "D",
+    "wapon": "B",
+    "ver": 30,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CLI",
+    "country": "SM",
+    "element": "D",
+    "wapon": "B",
+    "ver": 30,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "DRI",
+    "country": "SM",
+    "element": "E",
+    "wapon": "M",
+    "ver": 30,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CNO",
+    "country": "SM",
+    "element": "E",
+    "wapon": "P",
+    "ver": 31,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NLU",
+    "country": "SM",
+    "element": "H",
+    "wapon": "S",
+    "ver": 31,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NHD",
+    "country": "SM",
+    "element": "D",
+    "wapon": "C",
+    "ver": 32,
+    "model": "L",
+    "vision": "G",
+    "namechange": "X"
+  },
+  {
+    "name": "LLA",
+    "country": "SM",
+    "element": "C",
+    "wapon": "S",
+    "ver": 32,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "WDR",
+    "country": "SM",
+    "element": "A",
+    "wapon": "C",
+    "ver": 33,
+    "model": "B",
+    "vision": "V",
+    "namechange": 1
+  },
+  {
+    "name": "FRZ",
+    "country": "SM",
+    "element": "A",
+    "wapon": "B",
+    "ver": 33,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ALH",
+    "country": "SM",
+    "element": "D",
+    "wapon": "S",
+    "ver": 34,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "YYO",
+    "country": "SM",
+    "element": "D",
+    "wapon": "P",
+    "ver": 34,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "DHY",
+    "country": "SM",
+    "element": "P",
+    "wapon": "M",
+    "ver": 35,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MKA",
+    "country": "MN",
+    "element": "C",
+    "wapon": "P",
+    "ver": 35,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "BZU",
+    "country": "LY",
+    "element": "D",
+    "wapon": "C",
+    "ver": 36,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KVE",
+    "country": "SM",
+    "element": "D",
+    "wapon": "M",
+    "ver": 36,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KRR",
+    "country": "IN",
+    "element": "D",
+    "wapon": "S",
+    "ver": 37,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "LNY",
+    "country": "FT",
+    "element": "P",
+    "wapon": "B",
+    "ver": 40,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "LNT",
+    "country": "FT",
+    "element": "A",
+    "wapon": "S",
+    "ver": 40,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "FMN",
+    "country": "FT",
+    "element": "C",
+    "wapon": "M",
+    "ver": 40,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NVL",
+    "country": "FT",
+    "element": "H",
+    "wapon": "C",
+    "ver": 41,
+    "model": "M",
+    "vision": "A",
+    "namechange": "X"
+  },
+  {
+    "name": "WSL",
+    "country": "FT",
+    "element": "C",
+    "wapon": "C",
+    "ver": 41,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "FRN",
+    "country": "FT",
+    "element": "H",
+    "wapon": "S",
+    "ver": 42,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CRL",
+    "country": "FT",
+    "element": "C",
+    "wapon": "C",
+    "ver": 42,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "NVA",
+    "country": "FT",
+    "element": "G",
+    "wapon": "M",
+    "ver": 43,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CVR",
+    "country": "FT",
+    "element": "E",
+    "wapon": "S",
+    "ver": 43,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XYU",
+    "country": "LY",
+    "element": "A",
+    "wapon": "C",
+    "ver": 44,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "GMN",
+    "country": "LY",
+    "element": "P",
+    "wapon": "M",
+    "ver": 44,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "COR",
+    "country": "FT",
+    "element": "G",
+    "wapon": "S",
+    "ver": 45,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ARC",
+    "country": "FT",
+    "element": "P",
+    "wapon": "P",
+    "ver": 46,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CLR",
+    "country": "FT",
+    "element": "E",
+    "wapon": "S",
+    "ver": 47,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "STS",
+    "country": "SM",
+    "element": "E",
+    "wapon": "B",
+    "ver": 47,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "SGW",
+    "country": "FT",
+    "element": "H",
+    "wapon": "B",
+    "ver": 47,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "EML",
+    "country": "FT",
+    "element": "D",
+    "wapon": "C",
+    "ver": 48,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MAL",
+    "country": "NT",
+    "element": "H",
+    "wapon": "C",
+    "ver": 50,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KCN",
+    "country": "NT",
+    "element": "G",
+    "wapon": "C",
+    "ver": 50,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "KNC",
+    "country": "NT",
+    "element": "D",
+    "wapon": "M",
+    "ver": 50,
+    "model": "B",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "XLO",
+    "country": "NT",
+    "element": "G",
+    "wapon": "S",
+    "ver": 51,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ORR",
+    "country": "NT",
+    "element": "E",
+    "wapon": "B",
+    "ver": 52,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "CSC",
+    "country": "NT",
+    "element": "A",
+    "wapon": "C",
+    "ver": 52,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MVK",
+    "country": "NT",
+    "element": "P",
+    "wapon": "M",
+    "ver": 53,
+    "model": "F",
+    "vision": "G",
+    "namechange": "X"
+  },
+  {
+    "name": "CTL",
+    "country": "NT",
+    "element": "C",
+    "wapon": "C",
+    "ver": 53,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "LYN",
+    "country": "LY",
+    "element": "A",
+    "wapon": "C",
+    "ver": 53,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "MZK",
+    "country": "IN",
+    "element": "A",
+    "wapon": "C",
+    "ver": 54,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "VRS",
+    "country": "NT",
+    "element": "E",
+    "wapon": "C",
+    "ver": 55,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "INS",
+    "country": "NT",
+    "element": "E",
+    "wapon": "S",
+    "ver": 55,
+    "model": "L",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "IFA",
+    "country": "NT",
+    "element": "A",
+    "wapon": "C",
+    "ver": 56,
+    "model": "M",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
+    "name": "ESC",
+    "country": "FT",
+    "element": "C",
+    "wapon": "P",
+    "ver": 56,
+    "model": "G",
+    "vision": "V",
+    "namechange": "X"
+  }
+]
