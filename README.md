@@ -17,6 +17,7 @@ All are manual updates
 <br>
 <br>
 name = Character name<br>
+NOTE: Localization includes characters that may be playable in the future. **(NOT A LEAK)**
 <br>
 country = Affiliation country<br>
 　TR=Traveler<br>
@@ -26,9 +27,9 @@ country = Affiliation country<br>
 　SM=Sumeru<br>
 　FT=Fontaine<br>
 　NT=Natlan<br>
-　ND=Nod-Krai<br>
-　SN=Snezhnaya<br>
-　KR=Khaenri'ah<br>
+　ND=Nod-Krai(Tentative)<br>
+　SN=Snezhnaya(Tentative)<br>
+　KR=Khaenri'ah(Tentative)<br>
 　FT=Fatui<br>
 　UN=Unknown<br>
 <br>
