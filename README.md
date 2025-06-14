@@ -3,6 +3,7 @@ All are manual updates
 **Files**<br>
 ./data.json: Basic information about characters.<br>
 ./tr/: Localize file.<br>
+./img.json: URL of HoYoWiki image
 <br>
 <br>
 **Structure**<br>
