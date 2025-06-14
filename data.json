@@ -570,6 +570,16 @@
     "namechange": "X"
   },
   {
+    "name": "CDS",
+    "country": "SM",
+    "element": "H",
+    "wapon": "P",
+    "ver": 31,
+    "model": "F",
+    "vision": "V",
+    "namechange": "X"
+  },
+  {
     "name": "NHD",
     "country": "SM",
     "element": "D",
